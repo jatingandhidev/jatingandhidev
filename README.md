@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jatin Gandhi</h1>
 <h3 align="center">A Fullstack Web Developer</h3>
 
-- 🔭 I’m currently working on [Drawit - Collaborative Real-time Whiteboard](https://github.com/jatingandhidev/Drawit)
+- 🔭 I’m currently working on <a href="https://github.com/jatingandhidev/Drawit" target="_blank">Drawit - Collaborative Real-time Whiteboard</a>
 
 - 🌱 I’m currently learning **Convex and Clerk**
 
-- 👨‍💻 All of my projects are available at [https://jatingandhi.vercel.app/](https://jatingandhi.vercel.app/)
+- 👨‍💻 All of my projects are available at <a href="https://jatingandhi.vercel.app/" target="_blank">My Portfolio</a>
 
 - 📫 How to reach me **jatingandhi.dev@gmail.com**
 
-- 📄 Know about my experiences [https://rxresu.me/jatin05092001/jatin-gandhi](https://rxresu.me/jatin05092001/jatin-gandhi)
+- 📄 Know about my experiences <a href="https://rxresu.me/jatin05092001/jatin-gandhi" target="_blank">My Resume</a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
