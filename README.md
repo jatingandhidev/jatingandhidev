@@ -17,5 +17,5 @@
 
 
 
-<img align="left" height="250" src="https://cdn.dribbble.com/users/570218/screenshots/2218178/minion_nokeyframerig_old-pc.gif"  />
+<img align="left" height="200" src="https://cdn.dribbble.com/users/570218/screenshots/2218178/minion_nokeyframerig_old-pc.gif"  />
 
