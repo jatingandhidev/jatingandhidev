@@ -19,7 +19,7 @@
 
 <p align="center">
   <img align="left" height="125" src="https://cdn.dribbble.com/users/570218/screenshots/2218178/minion_nokeyframerig_old-pc.gif" />
-  <img align="center" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatingandhidev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
+  <img align="center" height="125" src="https://github-readme-stats.vercel.app/api/top-langs?username=jatingandhidev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
   <img align="right" height="125" src="https://66.media.tumblr.com/0ab1dec2d0b54be44a9e4881eba89ba0/tumblr_odx92yJDdq1uzwqcxo1_1280.gif" />
 </p>
 
