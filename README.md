@@ -17,6 +17,6 @@
 
 
 
-<img align="left" height="100" src="https://cdn.dribbble.com/users/570218/screenshots/2218178/minion_nokeyframerig_old-pc.gif"  />
-<img align="right" height="100" src="https://66.media.tumblr.com/0ab1dec2d0b54be44a9e4881eba89ba0/tumblr_odx92yJDdq1uzwqcxo1_1280.gif"  />
+<img align="left" height="125" src="https://cdn.dribbble.com/users/570218/screenshots/2218178/minion_nokeyframerig_old-pc.gif"  />
+<img align="right" height="125" src="https://66.media.tumblr.com/0ab1dec2d0b54be44a9e4881eba89ba0/tumblr_odx92yJDdq1uzwqcxo1_1280.gif"  />
 
