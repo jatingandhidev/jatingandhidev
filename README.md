@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jatingandhi.dev@gmail.com**
 
-- 📄 Know about my experiences <a href="https://rxresu.me/jatin05092001/jatin-gandhi" target="_blank">My Resume</a>
+- 📄 Know about my experiences <a href="https://rxresu.me/jatin05092001/jatin-gandhi" target="_blank">View My Resume</a>
 
 
 
