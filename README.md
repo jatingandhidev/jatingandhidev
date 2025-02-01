@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/jatingandhidev/Drawit">Drawit - Collaborative Real-time Whiteboard</a>
 
-- 🌱 I’m currently learning **Convex and Clerk**
-
 - 👨‍💻 All of my projects are available at <a href="https://jatingandhi.vercel.app/">My Portfolio</a>
 
 - 📫 How to reach me **jatingandhi.dev@gmail.com**
