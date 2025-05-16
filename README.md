@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jatin Gandhi</h1>
 <h3 align="center">A Fullstack Web Developer</h3>
 
-- 🔭 I’m currently working on <a href="https://github.com/jatingandhidev/Drawit">Drawit - Collaborative Real-time Whiteboard</a>
+- 🔭 I’m currently working on <a href="https://github.com/jatingandhidev/Drawit">DineOut</a>
 
 - 👨‍💻 All of my projects are available at <a href="https://jatingandhi.vercel.app/">My Portfolio</a>
 
